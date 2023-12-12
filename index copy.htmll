@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+    <title>Offcanvas template for Bootstrap</title>
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link href="offcanvas.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+    <img src="assets/img/banner.png" loading="lazy" class="img-fluid" alt="Responsive image">
+    <main role="main" class="container">
+        <div class="d-flex align-items-center p-2 mt-3 text-white-50 bg-primary rounded box-shadow">
+            <div class="lh-100">
+                <h3 class="mb-0 text-white lh-100">Layanan</h3>
+            </div>
+        </div>
+        <div class="section mt-3">
+            <div class="row">
+                <div class="row">
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/berita.png" alt="img" class="imaged w-100">
+                            <strong>Portal Berita</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/portal.png" alt="img" class="imaged w-100">
+                            <strong>Portal Data</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/sicantik.png" alt="img" class="imaged w-100">
+                            <strong>Sicantik</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/jdih.png" alt="img" class="imaged w-100">
+                            <strong>JDIH</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/lpse.png" alt="img" class="imaged w-100">
+                            <strong>LPSE</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/sialala.png" alt="img" class="imaged w-100">
+                            <strong>Silala</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/srikandi.png" alt="img" class="imaged w-100">
+                            <strong>Srikandi</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/bpbj.png" alt="img" class="imaged w-100">
+                            <strong>BPBJ</strong>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/rsud_menggala.png" alt="img" class="imaged w-100">
+                            <strong>RSUD</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/lapor.png" alt="img" class="imaged w-100">
+                            <strong>Lapor</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/bps.png" alt="img" class="imaged w-100">
+                            <strong>BPS</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/icon/sikep.png" alt="img" class="imaged w-100">
+                            <strong>Sikep</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/img/sample/avatar/avatar2.jpg" alt="img" class="imaged w-100">
+                            <strong>LPSE Tulang Bawang</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/img/sample/avatar/avatar2.jpg" alt="img" class="imaged w-100">
+                            <strong>Silala Tulang Bawang</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/img/sample/avatar/avatar2.jpg" alt="img" class="imaged w-100">
+                            <strong>Srikandi Tulang Bawang</strong>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="user-card">
+                            <img src="assets/img/sample/avatar/avatar2.jpg" alt="img" class="imaged w-100">
+                            <strong>BPBJ Tulang Bawang</strong>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="d-flex align-items-center p-2 mt-3 text-white-50 bg-primary rounded box-shadow">
+                <div class="lh-100">
+                    <h3 class="mb-0 text-white lh-100">Berita</h3>
+                </div>
+            </div>
+            <!-- News -->
+            <div class="section full mt-4 mb-3">
+                <!-- carousel multiple -->
+                <div class="carousel-multiple splide">
+                    <div class="splide__track">
+                        <ul class="splide__list">
+
+                            <li class="splide__slide">
+                                <a href="app-blog-post.html">
+                                    <div class="blog-card">
+                                        <img src="assets/img/sample/photo/1.jpg" alt="image" class="imaged w-100">
+                                        <div class="text">
+                                            <h4 class="title">What will be the value of bitcoin in the next...</h4>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                            <li class="splide__slide">
+                                <a href="app-blog-post.html">
+                                    <div class="blog-card">
+                                        <img src="assets/img/sample/photo/2.jpg" alt="image" class="imaged w-100">
+                                        <div class="text">
+                                            <h4 class="title">Rules you need to know in business</h4>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                            <li class="splide__slide">
+                                <a href="app-blog-post.html">
+                                    <div class="blog-card">
+                                        <img src="assets/img/sample/photo/3.jpg" alt="image" class="imaged w-100">
+                                        <div class="text">
+                                            <h4 class="title">10 easy ways to save your money</h4>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                            <li class="splide__slide">
+                                <a href="app-blog-post.html">
+                                    <div class="blog-card">
+                                        <img src="assets/img/sample/photo/4.jpg" alt="image" class="imaged w-100">
+                                        <div class="text">
+                                            <h4 class="title">Follow the financial agenda with...</h4>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <!-- * carousel multiple -->
+
+            </div>
+            <!-- * News -->
+            <div class="d-flex align-items-center p-2 mt-3 text-white-50 bg-primary rounded box-shadow">
+                <div class="lh-100">
+                    <h3 class="mb-0 text-white lh-100">Informasi Harga Pangan</h3>
+                </div>
+            </div>
+            <!-- Transactions -->
+            <div class="section mt-4">
+                <div class="transactions">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6 mb-2">
+                            <!-- item -->
+                            <a href="app-transaction-detail.html" class="item">
+                                <div class="detail">
+                                    <img src="assets/img/sembako/cabai_rawit.png" alt="img"
+                                        class="image-block imaged w48">
+                                    <div>
+                                        <strong>Cabai Rawait</strong>
+                                        <p>12 Desember 2023</p>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="price text-danger">Rp. 150.000</div>
+                                </div>
+                            </a>
+                            <!-- * item -->
+                        </div>
+                        <div class="col-md-4 mb-2">
+                            <!-- item -->
+                            <a href="app-transaction-detail.html" class="item">
+                                <div class="detail">
+                                    <img src="assets/img/sembako/cabai_rawit.png" alt="img"
+                                        class="image-block imaged w48">
+                                    <div>
+                                        <strong>Cabai Rawait</strong>
+                                        <p>12 Desember 2023</p>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="price text-danger">Rp. 150.000</div>
+                                </div>
+                            </a>
+                            <!-- * item -->
+                        </div>
+                        <div class="col-md-4 mb-2">
+                            <!-- item -->
+                            <a href="app-transaction-detail.html" class="item">
+                                <div class="detail">
+                                    <img src="assets/img/sembako/cabai_rawit.png" alt="img"
+                                        class="image-block imaged w48">
+                                    <div>
+                                        <strong>Cabai Rawait</strong>
+                                        <p>12 Desember 2023</p>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="price text-danger">Rp. 150.000</div>
+                                </div>
+                            </a>
+                            <!-- * item -->
+                        </div>
+                        <div class="col-md-4 mb-2">
+                            <!-- item -->
+                            <a href="app-transaction-detail.html" class="item">
+                                <div class="detail">
+                                    <img src="assets/img/sembako/cabai_rawit.png" alt="img"
+                                        class="image-block imaged w48">
+                                    <div>
+                                        <strong>Cabai Rawait</strong>
+                                        <p>12 Desember 2023</p>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="price text-danger">Rp. 150.000</div>
+                                </div>
+                            </a>
+                            <!-- * item -->
+                        </div>
+                        <div class="col-md-4 mb-2">
+                            <!-- item -->
+                            <a href="app-transaction-detail.html" class="item">
+                                <div class="detail">
+                                    <img src="assets/img/sembako/cabai_rawit.png" alt="img"
+                                        class="image-block imaged w48">
+                                    <div>
+                                        <strong>Cabai Rawait</strong>
+                                        <p>12 Desember 2023</p>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="price text-danger">Rp. 150.000</div>
+                                </div>
+                            </a>
+                            <!-- * item -->
+                        </div>
+                        <div class="col-md-4 mb-2">
+                            <!-- item -->
+                            <a href="app-transaction-detail.html" class="item">
+                                <div class="detail">
+                                    <img src="assets/img/sembako/cabai_rawit.png" alt="img"
+                                        class="image-block imaged w48">
+                                    <div>
+                                        <strong>Cabai Rawait</strong>
+                                        <p>12 Desember 2023</p>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="price text-danger">Rp. 150.000</div>
+                                </div>
+                            </a>
+                            <!-- * item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- * Transactions -->
+            <footer class="pt-4 my-md-5 pt-md-5 border-top">
+                <div class="row">
+                    <div class="col-12 col-md">
+                        <img class="mb-2" src="/assets/img/logo.png" alt="" width="20%">
+                        <small class="d-block mb-3 text-muted">&copy; 2017-2018</small>
+                    </div>
+                    <div class="col-6 col-md">
+                        <h5>Features</h5>
+                        <ul class="list-unstyled text-small">
+                            <li><a class="text-muted" href="#">Cool stuff</a></li>
+                            <li><a class="text-muted" href="#">Random feature</a></li>
+                            <li><a class="text-muted" href="#">Team feature</a></li>
+                            <li><a class="text-muted" href="#">Stuff for developers</a></li>
+                            <li><a class="text-muted" href="#">Another one</a></li>
+                            <li><a class="text-muted" href="#">Last time</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-md">
+                        <h5>Resources</h5>
+                        <ul class="list-unstyled text-small">
+                            <li><a class="text-muted" href="#">Resource</a></li>
+                            <li><a class="text-muted" href="#">Resource name</a></li>
+                            <li><a class="text-muted" href="#">Another resource</a></li>
+                            <li><a class="text-muted" href="#">Final resource</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-md">
+                        <h5>About</h5>
+                        <ul class="list-unstyled text-small">
+                            <li><a class="text-muted" href="#">Team</a></li>
+                            <li><a class="text-muted" href="#">Locations</a></li>
+                            <li><a class="text-muted" href="#">Privacy</a></li>
+                            <li><a class="text-muted" href="#">Terms</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+    </main>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../../../dist/js/bootstrap.min.js"></script>
+    <script src="../../../../assets/js/vendor/holder.min.js"></script>
+    <script src="offcanvas.js"></script>
+    <script src="assets/js/plugins/splide/splide.min.js"></script>
+    <!-- Base Js File -->
+    <script src="assets/js/base.js"></script>
+</body>
+
+</html>
